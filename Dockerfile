@@ -1,1 +1,1 @@
-FROM ghcr.io/keyval-dev/odigos/autoscaler:v0.1.44
+FROM ghcr.io/keyval-dev/odigos/scheduler:v0.1.44
