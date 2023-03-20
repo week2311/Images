@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.11.0
+FROM ghcr.io/keyval-dev/odigos/autoscaler:v0.1.44
